@@ -1,8 +1,5 @@
 # 알고리즘 문제
-## 목표
-1. 가독성 
-2. 생산성
-3. 확장성
+> 목표 : 가독성 / 생산성 / 확장성
 
 01. [Check_Palindrom](/05_quiz/01_Check_Palindrom.js)
 02. [Shortest_Distance](/05_quiz/02_Shortest_Distance.js)
